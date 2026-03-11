@@ -1,6 +1,6 @@
 # 🐉 Dragons Gym - Website Redesign & Lead Generation
 
-[Preview do Projeto](https://herbertis.github.io/dragons-gym/)
+[Preview do Projeto](https://herbertis.github.io/dragons-gym-page/)
 
 ---
 
